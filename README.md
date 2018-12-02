@@ -15,7 +15,7 @@
 
 *Some other small fixes
 
-*!!! This script is totlay experimental, bugs or performance issues should be expected. It will be improved over time. Also if you know how code, you can definitely make it better by yourself!!!*
+*!!! This script is totlay experimental, bugs or performance issues should be expected. It will be improved over time. Also if you know to how code, you can definitely make it better by yourself!!!*
 
 ## Commands list
 	// Commands that don't need to know players attributes.
