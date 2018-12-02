@@ -426,8 +426,8 @@ let commands = {
 	"!help": helpFun,
 	"!gkHelp": gkHelpFun,
 	"!adminHelp": adminHelpFun,
-	"!rankHelp": rankHelpFun,
-	"!ranking": rankFun,
+	//"!rankHelp": rankHelpFun,
+	//"!ranking": rankFun,
 	"!gameHelp": gameFun,
 	"p": putPauseFun,
 	"!p": unPauseFun,
@@ -449,12 +449,11 @@ let commands = {
 	"!close": closeFun,
 
 	// Command that need to know what's the message.
-	"!stats": statsFun,
+	//"!stats": statsFun,
 
 	// Command that need to know who is the player and what's the message.
 	"!mute": pushMuteFun,
 	"!unmute": unmuteFun
-
 }
 
 initPlayerStats(room.getPlayerList()[0]) // lazy lol, i'll fix it later
