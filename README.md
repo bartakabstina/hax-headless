@@ -1,7 +1,7 @@
 # Haxball headless host script
 (Based on Anddy's script)
 
-## Changes added to original script:
+## Changes added to original script (2018-12-01):
 
 *Added a very basic spam filter
 
@@ -15,7 +15,7 @@
 
 *Some other small fixes
 
-
+*!!! This script is totlay experimental, bugs or performance issues should be expected. It will be improved over time. Also if you now how code, you can definitely make it better by yourself!!!*
 
 ## Commands list
 	// Commands that don't need to know players attributes.
