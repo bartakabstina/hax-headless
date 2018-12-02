@@ -1,13 +1,18 @@
 # Haxball headless host script
 (Based on Anddy's script)
 
-## Changes add to original script:
+## Changes added to original script:
 
 *Added a very basic spam filter
+
 *Sends on goal score notifications to chat
+
 *Shows win streaks
+
 *Added a few additional commands
+
 *By default stats calculation for players and ball carrying functions are disabled
+
 *Some other small fixes
 
 
