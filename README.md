@@ -1,7 +1,7 @@
 # Haxball headless host script
 (Based on Anddy's script)
 
-## Changes add to original script:##
+## Changes add to original script:
 
 *Added a very basic spam filter
 *Sends on goal score notifications to chat
@@ -12,7 +12,7 @@
 
 
 
-## Commands list ##
+## Commands list
 	// Commands that don't need to know players attributes.
 	"!help": helpFun,
 	"!gkHelp": gkHelpFun,
